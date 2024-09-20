@@ -1,6 +1,6 @@
  DEPLOYED SITE:
  ----
-accordion-wrapper.netlify.app
+https://accordion-wrapper.netlify.app
  ----
 # Getting Started with Create React App
 
