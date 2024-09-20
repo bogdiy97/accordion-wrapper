@@ -1,6 +1,6 @@
  DEPLOYED SITE:
  ----
- https://agenda-virtuala.netlify.app 
+accordion-wrapper.netlify.app
  ----
 # Getting Started with Create React App
 
